@@ -19,7 +19,7 @@ public class UAS1A {
             g.add(count);
         }
         for (int value : g) {
-            System.out.println(value);
+            System.out.println(value + " , ");
         }
     }
     private static int countWord(String str, char c){
